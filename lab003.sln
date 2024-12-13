@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab003", "lab003\lab003.csproj", "{0A6D4FF7-4318-4D8F-8979-E61366A5AFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie2", "zadanie2\zadanie2.csproj", "{1060B513-F8ED-48F4-BC36-DA5746837570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie3", "zadanie3\zadanie3.csproj", "{3A064341-23A8-4EA8-85E7-810CF4CAD3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6D4FF7-4318-4D8F-8979-E61366A5AFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6D4FF7-4318-4D8F-8979-E61366A5AFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6D4FF7-4318-4D8F-8979-E61366A5AFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6D4FF7-4318-4D8F-8979-E61366A5AFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1060B513-F8ED-48F4-BC36-DA5746837570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1060B513-F8ED-48F4-BC36-DA5746837570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1060B513-F8ED-48F4-BC36-DA5746837570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1060B513-F8ED-48F4-BC36-DA5746837570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A064341-23A8-4EA8-85E7-810CF4CAD3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A064341-23A8-4EA8-85E7-810CF4CAD3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A064341-23A8-4EA8-85E7-810CF4CAD3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A064341-23A8-4EA8-85E7-810CF4CAD3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67575CAE-5F6A-4F53-B16B-C11C6395AB0A}
+	EndGlobalSection
+EndGlobal
